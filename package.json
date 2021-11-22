@@ -16,6 +16,8 @@
   "bugs": {
     "url": "https://github.com/alnao/Web3ProjectsExample/issues"
   },
-  "homepage": "https://github.com/alnao/Web3ProjectsExample#readme"
+  "homepage": "https://github.com/alnao/Web3ProjectsExample#readme",
+  "dependencies": {
+    "web3": "^0.20.7"
+  }
 }
-
